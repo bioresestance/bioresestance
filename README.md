@@ -7,3 +7,10 @@ As mentioned above, my name is Aaron Bromma. I am an Electrical Engineer, born a
 I am the founder and President of AJB Technologies Inc., a product design company specializing in Home Automation and Personal Electronic Devices. If you are interested in my work and want to reach out, you can visit my company [website](https://ajb-tech.ca) or email me directly at aaron@ajb-tech.ca.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioresestance"/>
+
+## My Interests
+
+- 🏡 Home Automation and Internet-Of-Things (IoT)
+- 📜 Learning and Improving my C++/C skills
+- 🖥 Embedded Systems, including ESP32
+- ⌨ Website Design 
